@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/avatargenerator/static/css/main.9be8646a.css",
+    "main.js": "/avatargenerator/static/js/main.51ac4ec1.js",
+    "static/js/453.042c526f.chunk.js": "/avatargenerator/static/js/453.042c526f.chunk.js",
+    "static/media/back.jpg": "/avatargenerator/static/media/back.e9863000b8d4ee3d75b4.jpg",
+    "index.html": "/avatargenerator/index.html",
+    "main.9be8646a.css.map": "/avatargenerator/static/css/main.9be8646a.css.map",
+    "main.51ac4ec1.js.map": "/avatargenerator/static/js/main.51ac4ec1.js.map",
+    "453.042c526f.chunk.js.map": "/avatargenerator/static/js/453.042c526f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9be8646a.css",
+    "static/js/main.51ac4ec1.js"
+  ]
+}
